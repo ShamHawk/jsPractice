@@ -1,0 +1,2 @@
+# jsPractice
+First SPA project
