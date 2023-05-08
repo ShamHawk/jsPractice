@@ -1,4 +1,4 @@
 # jsPractice
 First SPA project
-Посмотреть можно по ссылке
+Посмотреть результат можно тут:
 https://shamhawk.github.io/jsPractice/
